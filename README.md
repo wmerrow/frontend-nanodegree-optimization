@@ -11,6 +11,6 @@
 
 ## Changes to main.js:
 
-- Changed number of pizzas to 25 instead of 257 (loop until i==24 instead of i==256)
+- Changed number of background pizzas to 24 instead of 256
 - Moved windowWidth calculation outside of loop in determineDx
 - Moved dx and newwidth calculation (determineDx call) outside of loop in changePizzaSizes
