@@ -1,6 +1,10 @@
 # Website Optimization Project
 ### Will Merrow
 
+## Running the application:
+
+Open index.html in your browser
+
 ## Changes to index.html:
 
 - Inlined css
